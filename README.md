@@ -19,7 +19,7 @@ One drawback to this website build is the search parameters are case sensitive a
 
 
 ##### No result when capitalized
-![](https://github.com/bktescher/UFOs/blob/main/static/images/lowercase.png)
+![](https://github.com/bktescher/UFOs/blob/main/static/images/capital.png)
 
 
 ## Recommendations for future builds
